@@ -25,9 +25,11 @@ serial number	Chinese name	English name	Dataset size
 6	General garbage	trash	134 total images
 The items are all taken on a whiteboard under daylight/indoor light source, and the compressed size is 512*384
 
-Image preview:
+The items are all taken on a whiteboard under daylight/indoor light source, and the compressed size is 512*384
 
- ![68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303139313130333138343630333832342e706e673f782d6f73732d70726f636573733d696d6167652f77617465726d61726b2c747970655f5a6d46755a33706f5a57356e6147567064476b2c](https://user-images.githubusercontent.com/94170592/231307311-62739c82-a0a3-41ef-812a-31640dae8de4.png)
+Image preview
+
+![hh](https://user-images.githubusercontent.com/94170592/231307484-c6d4c599-c1a1-4d16-9f29-89e42b021027.png)
 
 
  some of the predicted result show:
